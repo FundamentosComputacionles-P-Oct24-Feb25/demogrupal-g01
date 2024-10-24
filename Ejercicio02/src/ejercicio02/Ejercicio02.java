@@ -18,7 +18,7 @@ public class Ejercicio02 {
         // Resolución del problema
         int var1 = 10;
         int var2 = 2;
-        
+        //hola Daniel Rene
                 
     }
     
